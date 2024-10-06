@@ -1,7 +1,5 @@
 
-## Hello! I'm Zach Peagler, a researcher and creative from Atlanta, Georgia
-
-### Pronouns: he/him
+## Hello! I'm Zach Peagler, a creator and scientist based in Atlanta, Georgia
 
 ### Interests
 I’m interested in projects that make the world a better place and are interesting or fun
