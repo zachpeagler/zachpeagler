@@ -3,7 +3,7 @@
 
 ### Current Projects
 - Finishing my Master's Degree in Integrative Biology
-- [Seating Chart](github.com/zachpeagler/SeatingChart) - An open source seating chart tool for teachers.
+- [Seating Chart](https://www.github.com/zachpeagler/SeatingChart) - An open source seating chart tool for teachers.
 
 ### Interests
 I’m interested in projects that make the world a better place and are interesting or fun
