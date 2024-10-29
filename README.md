@@ -3,15 +3,14 @@
 
 ### Current Projects
 - Finishing my Master's Degree in Integrative Biology
-- App-A-Day: creating an app a day until I get hired for an R Shiny developer/data scientist job.
-
+- [Seating Chart](github.com/zachpeagler/SeatingChart) - An open source seating chart tool for teachers.
 
 ### Interests
-I’m interested in projects that make the world a better place and are interesting or fun.
+I’m interested in projects that make the world a better place and are interesting or fun
 
-I especially enjoy data science and discovering new insights about our world.
+I especially enjoy data science and discovering new insights about our world
 
-I’m currently learning Python, R, SQL, and C++
+I’m currently learning Python, SQL, and C++
 
 I’m looking to gain experience contributing to open source projects
 
