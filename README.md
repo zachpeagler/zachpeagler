@@ -4,6 +4,7 @@
 ### Current Projects
 - Finishing my Master's Degree in Integrative Biology
 - [Seating Chart](https://www.github.com/zachpeagler/SeatingChart) - An open source seating chart tool for teachers.
+- [MultiFitR](https://www.github.com/zachpeagler/MultiFitR) - An R package designed to simplify common exploratory data analysis techniques.
 
 ### Interests
 I’m interested in projects that make the world a better place and are interesting or fun
@@ -16,6 +17,7 @@ I’m looking to gain experience contributing to open source projects
 
 ### Languages
 - R - 4 years of experience
+- Python - 2 years of experience
   
 ### Skills
 - Blender (modeling, animating, geometry nodes)
