@@ -4,24 +4,27 @@
 ### Current Projects
 - Finishing my Master's Degree in Integrative Biology
 - [Seating Chart](https://www.github.com/zachpeagler/SeatingChart) - An open source seating chart tool for teachers.
-- [MultiFitR](https://www.github.com/zachpeagler/MultiFitR) - An R package designed to simplify common exploratory data analysis techniques.
+- [ztils](https://www.github.com/zachpeagler/ztils) - An R package designed to simplify common exploratory data analysis techniques.
+- [GodotSweeper](https://www.github.com/zachpeagler/ztils) - A minesweeper clone made in Godot 4.4
 
 ### Interests
 I’m interested in projects that make the world a better place and are interesting or fun
 
-I especially enjoy data science and discovering new insights about our world
+I especially enjoy data science and discovering new insights about our world.
 
-I’m currently learning Python, SQL, and C++
-
-I’m looking to gain experience contributing to open source projects
+I’m looking to gain experience contributing to open source projects.
 
 ### Languages
-- R - 4 years of experience
+- R - 5 years of experience
 - Python - 2 years of experience
+- SQL - 2 years of experience
   
 ### Skills
 - Blender (modeling, animating, geometry nodes)
 - Adobe suite (Photoshop, Illustrator, Premiere Pro, Audition)
+- AWS
+- Azure
+- Docker
   
 ### Contact me
 
