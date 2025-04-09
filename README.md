@@ -30,6 +30,7 @@ I’m looking to contribute to open source projects.
 - SQL - 2 years of experience
 - SAS - 1 year of experience
 - SAP - 1 year of experience
+- Golang - just starting
 
 #### Database Systems
 - Microsoft SQL Server
